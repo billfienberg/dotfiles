@@ -1,0 +1,8 @@
+node_modules/
+__babel_fixtures__/
+dist/
+coverage/
+examples/
+babel.js
+index.js
+patch.js

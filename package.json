@@ -1,0 +1,30 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TBD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billfienberg/dotfiles.git"
+  },
+  "keywords": [],
+  "author": "Bill Fienberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billfienberg/dotfiles/issues"
+  },
+  "homepage": "https://github.com/billfienberg/dotfiles#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2"
+  },
+  "dependencies": {}
+}

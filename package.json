@@ -5,6 +5,7 @@
   "main": "TBD",
   "scripts": {
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|json|css|html|md)\"",
+    "format:js": "prettier --ignore-path .gitignore --write \"$npm_config_folder/**/*.+(js|jsx)\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

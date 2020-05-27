@@ -4,6 +4,7 @@
   "description": "",
   "main": "TBD",
   "scripts": {
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|json|css|html|md)\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
